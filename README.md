@@ -47,3 +47,20 @@ if (prediction[0] == 'R'):
     print('Target: Rock')
 else:
     print('Target: Mine')
+
+## 🚀 How to Run
+
+Follow these steps to set up and run the project on your local machine or in the cloud.
+
+### 1. Prerequisite Setup
+* Ensure you have **Python 3.8+** installed on your system.
+* (Optional) It is recommended to use a virtual environment:
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows: venv\Scripts\activate
+    ```
+
+### 2. Clone the Repository
+```bash
+git clone [https://github.com/krishkhatik01/Rock-VS-Mine-Model.git](https://github.com/krishkhatik01/Rock-VS-Mine-Model.git)
+cd Rock-VS-Mine-Model
