@@ -47,6 +47,7 @@ if (prediction[0] == 'R'):
     print('Target: Rock')
 else:
     print('Target: Mine')
+```
 
 ## 🚀 How to Run
 
