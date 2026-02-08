@@ -1,4 +1,4 @@
-# 🌊 Sonar Rock vs. Mine Prediction System
+# 🌊 Sonar Rock vs Mine Prediction System
 
 ## 📌 Project Overview
 This project focuses on the binary classification of underwater objects using **Machine Learning**. By analyzing sonar signal patterns, the system determines whether an object is a **Rock (R)** or a **Naval Mine (M)**. This type of technology is essential for maritime safety and autonomous underwater vehicles.
